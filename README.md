@@ -1,3 +1,4 @@
+![MasterHead]((https://d8zm9ei35njj5.cloudfront.net/wp-content/uploads/2020/07/banner-8-930x524.png))
 <h1 align="center">Hi 👋, I'm Pruthviraj Rote</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
