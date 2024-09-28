@@ -1,4 +1,4 @@
-![MasterHead](https://d8zm9ei35njj5.cloudfront.net/wp-content/uploads/2020/07/banner-8-159x524.png)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fhd-engineering&psig=AOvVaw22ZGY13GcSFITepMXd4DEu&ust=1727626768779000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC5nrKF5ogDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Pruthviraj Rote</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
