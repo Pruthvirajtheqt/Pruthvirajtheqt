@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fhd-engineering&psig=AOvVaw22ZGY13GcSFITepMXd4DEu&ust=1727626768779000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC5nrKF5ogDFQAAAAAdAAAAABAE)
+![MasterHead](https://wallpapers.com/images/hd/hd-engineering-computer-technology-9c4d0251f783p6zh.jpg)
 <h1 align="center">Hi 👋, I'm Pruthviraj Rote</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
