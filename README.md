@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pruthviraj Rote</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **aws**
+- 🔭 I’m currently working on **AWS**
 
 - 🌱 I’m currently learning **Cloud Computing**
 
