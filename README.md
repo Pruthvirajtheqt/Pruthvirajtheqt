@@ -1,7 +1,7 @@
 ![MasterHead](https://wallpapers.com/images/hd/hd-engineering-computer-technology-9c4d0251f783p6zh.jpg)
 <h1 align="center">Hi 👋, I'm Pruthviraj Rote</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url="https%3A%2F%2Fgithub.com%2Fsomsai359&psig=AOvVaw2OKSy4UcfUsSy5bfE_3aca&ust=1727678899938000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJD398_H54gDFQAAAAAdAAAAABAi">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=">
 
 - 🔭 I’m currently working on **AWS**
 
