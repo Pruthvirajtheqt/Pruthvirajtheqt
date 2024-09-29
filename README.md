@@ -1,7 +1,8 @@
 ![MasterHead](https://wallpapers.com/images/hd/hd-engineering-computer-technology-9c4d0251f783p6zh.jpg)
 <h1 align="center">Hi 👋, I'm Pruthviraj Rote</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=">
+<img align="right" alt="Coding" width="400" src="![Uploading image.png…]()
+">
 
 - 🔭 I’m currently working on **AWS**
 
