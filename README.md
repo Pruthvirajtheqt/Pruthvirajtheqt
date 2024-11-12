@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pruthvirajtheqt](https://github.com/pruthvirajtheqt)
+- 👨‍💻 All of my projects are available at [https://github.com/pruthvirajjourney](https://github.com/pruthvirajjourney)
 
 - 💬 Ask me about **SQL,AWS,**
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pruthviraj-rote/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pruthvirajtheqt" height="30" width="40" /></a>
-<a href="https://instagram.com/pruthviraj_theqt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pruthvirajtheqt" height="30" width="40" /></a>
-<a href="https://youtube.com/@pruthviraj_theqt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pruthvirajtheqt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pruthvirajjourney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pruthvirajjourney" height="30" width="40" /></a>
+<a href="https://instagram.com/pruthviraj_journey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pruthviraj_journey" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pruthviraj_journey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pruthviraj_journey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
